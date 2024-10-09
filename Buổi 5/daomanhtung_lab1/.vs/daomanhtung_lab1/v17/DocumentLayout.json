@@ -1,0 +1,443 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|e:\\lab_web\\bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\views\\shared\\components\\major\\rendermajor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|solutionrelative:daomanhtung_lab1\\views\\shared\\components\\major\\rendermajor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|e:\\lab_web\\bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\viewcomponents\\majorviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|solutionrelative:daomanhtung_lab1\\viewcomponents\\majorviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|e:\\lab_web\\bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\views\\learner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|solutionrelative:daomanhtung_lab1\\views\\learner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|e:\\lab_web\\bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\controllers\\learnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|solutionrelative:daomanhtung_lab1\\controllers\\learnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|e:\\lab_web\\bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\views\\shared\\components\\render\\renderleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|solutionrelative:daomanhtung_lab1\\views\\shared\\components\\render\\renderleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|e:\\lab_web\\bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\viewcomponents\\renderviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|solutionrelative:daomanhtung_lab1\\viewcomponents\\renderviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|e:\\lab_web\\bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\views\\learner\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|solutionrelative:daomanhtung_lab1\\views\\learner\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|e:\\lab_web\\bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\views\\learner\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|solutionrelative:daomanhtung_lab1\\views\\learner\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|e:\\lab_web\\bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\views\\shared\\mylayouthelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|solutionrelative:daomanhtung_lab1\\views\\shared\\mylayouthelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|e:\\lab_web\\bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|solutionrelative:daomanhtung_lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|e:\\lab_web\\bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|solutionrelative:daomanhtung_lab1\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|e:\\lab_web\\bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|solutionrelative:daomanhtung_lab1\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|e:\\lab_web\\bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|solutionrelative:daomanhtung_lab1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|e:\\lab_web\\bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|solutionrelative:daomanhtung_lab1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|e:\\lab_web\\bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|solutionrelative:daomanhtung_lab1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|e:\\lab_web\\bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|solutionrelative:daomanhtung_lab1\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|e:\\lab_web\\bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|solutionrelative:daomanhtung_lab1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|e:\\lab_web\\bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|solutionrelative:daomanhtung_lab1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|e:\\lab_web\\bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|solutionrelative:daomanhtung_lab1\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|e:\\lab_web\\bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\views\\learner\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|solutionrelative:daomanhtung_lab1\\views\\learner\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|e:\\lab_web\\bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|solutionrelative:daomanhtung_lab1\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|e:\\lab_web\\bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\views\\shared\\leftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|solutionrelative:daomanhtung_lab1\\views\\shared\\leftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|e:\\lab_web\\bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\views\\shared\\topnav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|solutionrelative:daomanhtung_lab1\\views\\shared\\topnav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|e:\\lab_web\\bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|solutionrelative:daomanhtung_lab1\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|e:\\lab_web\\bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\daomanhtung_lab1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|solutionrelative:daomanhtung_lab1\\daomanhtung_lab1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|e:\\lab_web\\bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0AF77F-297D-4BC4-8D03-CF66FE6AB36D}|daomanhtung_lab1\\daomanhtung_lab1.csproj|solutionrelative:daomanhtung_lab1\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 145,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RenderMajor.cshtml",
+              "DocumentMoniker": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\Views\\Shared\\Components\\Major\\RenderMajor.cshtml",
+              "RelativeDocumentMoniker": "daomanhtung_lab1\\Views\\Shared\\Components\\Major\\RenderMajor.cshtml",
+              "ToolTip": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\Views\\Shared\\Components\\Major\\RenderMajor.cshtml",
+              "RelativeToolTip": "daomanhtung_lab1\\Views\\Shared\\Components\\Major\\RenderMajor.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T22:28:37.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LearnerController.cs",
+              "DocumentMoniker": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\Controllers\\LearnerController.cs",
+              "RelativeDocumentMoniker": "daomanhtung_lab1\\Controllers\\LearnerController.cs",
+              "ToolTip": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\Controllers\\LearnerController.cs",
+              "RelativeToolTip": "daomanhtung_lab1\\Controllers\\LearnerController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAiwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T17:38:02.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\Views\\Learner\\Index.cshtml",
+              "RelativeDocumentMoniker": "daomanhtung_lab1\\Views\\Learner\\Index.cshtml",
+              "ToolTip": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\Views\\Learner\\Index.cshtml",
+              "RelativeToolTip": "daomanhtung_lab1\\Views\\Learner\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T17:35:00.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MajorViewComponent.cs",
+              "DocumentMoniker": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\ViewComponents\\MajorViewComponent.cs",
+              "RelativeDocumentMoniker": "daomanhtung_lab1\\ViewComponents\\MajorViewComponent.cs",
+              "ToolTip": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\ViewComponents\\MajorViewComponent.cs",
+              "RelativeToolTip": "daomanhtung_lab1\\ViewComponents\\MajorViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:27:03.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RenderLeftMenu.cshtml",
+              "DocumentMoniker": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
+              "RelativeDocumentMoniker": "daomanhtung_lab1\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
+              "ToolTip": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
+              "RelativeToolTip": "daomanhtung_lab1\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T00:39:35.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\Views\\Learner\\Delete.cshtml",
+              "RelativeDocumentMoniker": "daomanhtung_lab1\\Views\\Learner\\Delete.cshtml",
+              "ToolTip": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\Views\\Learner\\Delete.cshtml",
+              "RelativeToolTip": "daomanhtung_lab1\\Views\\Learner\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T17:56:49.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MyLayoutHelper.cshtml",
+              "DocumentMoniker": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\Views\\Shared\\MyLayoutHelper.cshtml",
+              "RelativeDocumentMoniker": "daomanhtung_lab1\\Views\\Shared\\MyLayoutHelper.cshtml",
+              "ToolTip": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\Views\\Shared\\MyLayoutHelper.cshtml",
+              "RelativeToolTip": "daomanhtung_lab1\\Views\\Shared\\MyLayoutHelper.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T00:42:41.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RenderViewComponent.cs",
+              "DocumentMoniker": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\ViewComponents\\RenderViewComponent.cs",
+              "RelativeDocumentMoniker": "daomanhtung_lab1\\ViewComponents\\RenderViewComponent.cs",
+              "ToolTip": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\ViewComponents\\RenderViewComponent.cs",
+              "RelativeToolTip": "daomanhtung_lab1\\ViewComponents\\RenderViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T23:28:11.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\Views\\Learner\\Create.cshtml",
+              "RelativeDocumentMoniker": "daomanhtung_lab1\\Views\\Learner\\Create.cshtml",
+              "ToolTip": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\Views\\Learner\\Create.cshtml",
+              "RelativeToolTip": "daomanhtung_lab1\\Views\\Learner\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T17:51:09.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\Program.cs",
+              "RelativeDocumentMoniker": "daomanhtung_lab1\\Program.cs",
+              "ToolTip": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\Program.cs",
+              "RelativeToolTip": "daomanhtung_lab1\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAuwDUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T21:59:04.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\Data\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "daomanhtung_lab1\\Data\\SchoolContext.cs",
+              "ToolTip": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\Data\\SchoolContext.cs",
+              "RelativeToolTip": "daomanhtung_lab1\\Data\\SchoolContext.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwvxgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T17:28:05.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MyLayout.cshtml",
+              "DocumentMoniker": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\Views\\Shared\\MyLayout.cshtml",
+              "RelativeDocumentMoniker": "daomanhtung_lab1\\Views\\Shared\\MyLayout.cshtml",
+              "ToolTip": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\Views\\Shared\\MyLayout.cshtml",
+              "RelativeToolTip": "daomanhtung_lab1\\Views\\Shared\\MyLayout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T22:52:09.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "daomanhtung_lab1\\Models\\Student.cs",
+              "ToolTip": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\Models\\Student.cs",
+              "RelativeToolTip": "daomanhtung_lab1\\Models\\Student.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwBEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T21:22:34.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "daomanhtung_lab1\\Views\\Student\\Index.cshtml",
+              "ToolTip": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "daomanhtung_lab1\\Views\\Student\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T21:26:53.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "daomanhtung_lab1\\Controllers\\StudentController.cs",
+              "ToolTip": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "daomanhtung_lab1\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAkwA4AAACZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T21:23:26.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "daomanhtung_lab1\\Views\\Student\\Create.cshtml",
+              "ToolTip": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "daomanhtung_lab1\\Views\\Student\\Create.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAADoAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T21:37:19.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "daomanhtung_lab1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "daomanhtung_lab1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T21:24:53.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "daomanhtung_lab1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "daomanhtung_lab1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T22:36:08.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\Models\\Branch.cs",
+              "RelativeDocumentMoniker": "daomanhtung_lab1\\Models\\Branch.cs",
+              "ToolTip": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\Models\\Branch.cs",
+              "RelativeToolTip": "daomanhtung_lab1\\Models\\Branch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T21:19:55.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\Views\\Learner\\Edit.cshtml",
+              "RelativeDocumentMoniker": "daomanhtung_lab1\\Views\\Learner\\Edit.cshtml",
+              "ToolTip": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\Views\\Learner\\Edit.cshtml",
+              "RelativeToolTip": "daomanhtung_lab1\\Views\\Learner\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T17:54:22.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Footer.cshtml",
+              "DocumentMoniker": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\Views\\Shared\\Footer.cshtml",
+              "RelativeDocumentMoniker": "daomanhtung_lab1\\Views\\Shared\\Footer.cshtml",
+              "ToolTip": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\Views\\Shared\\Footer.cshtml",
+              "RelativeToolTip": "daomanhtung_lab1\\Views\\Shared\\Footer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T23:06:07.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LeftMenu.cshtml",
+              "DocumentMoniker": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\Views\\Shared\\LeftMenu.cshtml",
+              "RelativeDocumentMoniker": "daomanhtung_lab1\\Views\\Shared\\LeftMenu.cshtml",
+              "ToolTip": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\Views\\Shared\\LeftMenu.cshtml",
+              "RelativeToolTip": "daomanhtung_lab1\\Views\\Shared\\LeftMenu.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T23:05:29.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TopNav.cshtml",
+              "DocumentMoniker": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\Views\\Shared\\TopNav.cshtml",
+              "RelativeDocumentMoniker": "daomanhtung_lab1\\Views\\Shared\\TopNav.cshtml",
+              "ToolTip": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\Views\\Shared\\TopNav.cshtml",
+              "RelativeToolTip": "daomanhtung_lab1\\Views\\Shared\\TopNav.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T22:57:06.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\Models\\MenuItem.cs",
+              "RelativeDocumentMoniker": "daomanhtung_lab1\\Models\\MenuItem.cs",
+              "ToolTip": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\Models\\MenuItem.cs",
+              "RelativeToolTip": "daomanhtung_lab1\\Models\\MenuItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T23:25:57.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "daomanhtung_lab1.csproj",
+              "DocumentMoniker": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\daomanhtung_lab1.csproj",
+              "RelativeDocumentMoniker": "daomanhtung_lab1\\daomanhtung_lab1.csproj",
+              "ToolTip": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\daomanhtung_lab1.csproj",
+              "RelativeToolTip": "daomanhtung_lab1\\daomanhtung_lab1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-09T17:31:40.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\Models\\Gender.cs",
+              "RelativeDocumentMoniker": "daomanhtung_lab1\\Models\\Gender.cs",
+              "ToolTip": "E:\\lab_web\\Bu\u1ED5i 5\\daomanhtung_lab1\\daomanhtung_lab1\\Models\\Gender.cs",
+              "RelativeToolTip": "daomanhtung_lab1\\Models\\Gender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T21:18:24.218Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
